@@ -1,24 +1,64 @@
 {
   "version": 1,
-  "base_track": "Ex-Otogibanashi (Anime ver.)",
+  "base_track": "Ex-Otogibanashi",
   "base_artist": "ryo (supercell)、かぐや(cv.夏吉ゆうこ)、月見ヤチヨ(cv.早見沙織)",
-  "createdAt": "2026-02-12T13:18:19.027194Z",
+  "createdAt": "2026-02-13T11:41:41.563090Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell); かぐや(cv.夏吉ゆうこ); 月見ヤチヨ(cv.早見沙織)",
+      "has_synced": true,
+      "path": "select/01_Ex-Otogibanashi_ryo_(supercell);_かぐや(cv.夏吉ゆうこ);_月見ヤチヨ(cv.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
       "title": "Ex-Otogibanashi - Anime ver.",
       "artist": "ryo (supercell)",
       "has_synced": false,
-      "path": "select/01_Ex-Otogibanashi_-_Anime_ver._ryo_(supercell).txt"
+      "path": "select/02_Ex-Otogibanashi_-_Anime_ver._ryo_(supercell).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell)",
+      "has_synced": false,
+      "path": "select/03_Ex-Otogibanashi_ryo_(supercell).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell), Kaguya(cv.Yuko Natsuyoshi), Yachiyo Runami(cv.Saori Hayami)",
+      "has_synced": true,
+      "path": "select/04_Ex-Otogibanashi_ryo_(supercell),_Kaguya(cv.Yuko_Natsuyoshi),_Yachiyo_Runami(cv.Saori_Hayami).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell), Kaguya(cv.Yuko Natsuyoshi) 및 Yachiyo Runami(cv.Saori Hayami)",
+      "has_synced": false,
+      "path": "select/05_Ex-Otogibanashi_ryo_(supercell),_Kaguya(cv.Yuko_Natsuyoshi)_및_Yachiyo_Runami(cv.Saori_Hayami).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ), 月見ヤチヨ(cv.早見沙織)",
+      "has_synced": true,
+      "path": "select/06_Ex-Otogibanashi_ryo_(supercell),_かぐや(cv.夏吉ゆうこ),_月見ヤチヨ(cv.早見沙織).lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Ex-Otogibanashi (Anime ver.)",
+      "title": "Ex-Otogibanashi",
       "artist": "ryo (supercell), かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織)",
       "has_synced": false,
-      "path": "select/pl_01_Ex-Otogibanashi_(Anime_ver.)_ryo_(supercell),_かぐや(cv.夏吉ゆうこ)_&_月見ヤチヨ(cv.早見沙織).txt"
+      "path": "select/pl_01_Ex-Otogibanashi_ryo_(supercell),_かぐや(cv.夏吉ゆうこ)_&_月見ヤチヨ(cv.早見沙織).txt"
     }
   ]
 }
