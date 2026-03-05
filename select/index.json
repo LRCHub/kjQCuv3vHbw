@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Ex-Otogibanashi",
   "base_artist": "ryo (supercell)、かぐや(cv.夏吉ゆうこ)、月見ヤチヨ(cv.早見沙織)",
-  "createdAt": "2026-03-04T12:19:33.243545Z",
+  "createdAt": "2026-03-05T00:44:58.866934Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,22 @@
       "artist": "ryo (supercell), Kaguya(cv.Yuko Natsuyoshi), & Yachiyo Runami(cv.Saori Hayami)",
       "has_synced": true,
       "path": "select/09_Ex-Otogibanashi_ryo_(supercell),_Kaguya(cv.Yuko_Natsuyoshi),_&_Yachiyo_Runami(cv.Saori_Hayami).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ex-Otogibanashi",
+      "artist": "ryo",
+      "has_synced": false,
+      "path": "select/10_Ex-Otogibanashi_ryo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ex-Otogibanashi (月見ヤチヨ ver.) - Ex-Otogibanashi (Yachiyo Runami ver.)",
+      "artist": "ryo (supercell) & Yachiyo Runami(cv.Saori Hayami)",
+      "has_synced": true,
+      "path": "select/11_Ex-Otogibanashi_(月見ヤチヨ_ver.)_-_Ex-Otogibanashi_(Yachiyo_Runami_ver.)_ryo_(supercell)_&_Yachiyo_Runami(cv.Saori_Hayami).lrc"
     },
     {
       "id": "petitlyrics_1",
