@@ -1,4 +1,4 @@
-# ryo (supercell) & Yachiyo Runami(cv.Saori Hayami) – Ex-Otogibanashi (月見ヤチヨ ver.) - Ex-Otogibanashi (Yachiyo Runami ver.)
+# ryo (supercell)、かぐや(cv.夏吉ゆうこ)、月見ヤチヨ(cv.早見沙織) – Ex-Otogibanashi
 
 > **歌詞登録ステータス：同期歌詞あり**
 
